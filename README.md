@@ -36,5 +36,6 @@ These are KiCAD designs one can use these designs with the latest version of KiC
 Atmega8A-Dev-Board © 2023 by Sanket Telunagi is licensed under CC BY 4.0 
 
 ## Output
-![Outputs/Board_sch.png]
-![Outputs/PCB_Layout.png]
+![Board Schematic](https://github.com/sanket-telunagi/arduino-dev-board/blob/f9b8ef4c014bc069ebac8e63db3b0eda1715db90/Outputs/Board_sch.png)
+
+![Board PCB Layout](https://github.com/sanket-telunagi/arduino-dev-board/blob/f9b8ef4c014bc069ebac8e63db3b0eda1715db90/Outputs/PCB_Layout.png)
